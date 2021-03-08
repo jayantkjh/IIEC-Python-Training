@@ -1,2 +1,2 @@
 # IIEC-Python-Training
-Task2
+menu-driven program using CGI.
