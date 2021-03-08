@@ -1,2 +1,2 @@
 # IIEC-Python-Training
-menu-driven program using CGI.
+menu-driven Automation program using CGI.
